@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    
+}
+.a{
+    background-color: red;
+    height:200px ;
+    width:200px ;
+    position: absolute;
+    left: 400px;
+    top: 400px;
+
+}
+.b{
+    background-color: blue;
+    height:200px ;
+    width:200px ;
+    position: absolute; 
+    position: absolute;
+    left: 200px;
+    top: 200px; 
+    
+}
+.c{background-color: yellowgreen;
+    height:200px ;
+    width:200px ;
+    
+}
